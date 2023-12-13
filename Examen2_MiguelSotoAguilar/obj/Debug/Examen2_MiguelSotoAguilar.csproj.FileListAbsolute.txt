@@ -1,0 +1,120 @@
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.CoreCompileInputs.cache
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.dll.config
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.pdb
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csc.exe
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csc.exe.config
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csc.rsp
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csi.exe
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csi.exe.config
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\csi.rsp
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.AppContext.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Console.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Globalization.Calendars.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.Compression.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.FileSystem.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Net.Http.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Net.Sockets.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.ValueTuple.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XPath.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.exe
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.exe.config
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.rsp
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\VBCSCompiler.exe
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.CopyComplete
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.dll
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.pdb
+D:\Universidad UPI\Progra3\Examen2\Examen2_MiguelSotoAguilar\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.AssemblyReference.cache
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.dll.config
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\Examen2_MiguelSotoAguilar.pdb
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csc.exe
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csc.exe.config
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csc.rsp
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csi.exe
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csi.exe.config
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\csi.rsp
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.AppContext.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Collections.Immutable.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Console.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Globalization.Calendars.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.Compression.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.FileSystem.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Net.Http.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Net.Sockets.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Reflection.Metadata.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.ValueTuple.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XPath.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.exe
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.exe.config
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\vbc.rsp
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\VBCSCompiler.exe
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\roslyn\VBCSCompiler.exe.config
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.AssemblyReference.cache
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.CoreCompileInputs.cache
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.csproj.CopyComplete
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.dll
+D:\VB Progra 3\Proyecto 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.pdb
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Proyecto final\PROYECTO 2\PROYECTO 2\PROYECTO 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.dll
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Proyecto final\PROYECTO 2\PROYECTO 2\PROYECTO 2\Examen2_MiguelSotoAguilar\obj\Debug\Examen2_MiguelSotoAguilar.pdb
